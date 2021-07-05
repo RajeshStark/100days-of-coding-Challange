@@ -1,6 +1,6 @@
 DAY - 1 DATE 02-07-2021 
 
-******  language 1 - JAVASCRIPT  ******
+******  language - JAVASCRIPT  ******
 
 1. function syntax return params etc
 2. function expression, arrowfunction
@@ -25,5 +25,4 @@ DAY - 1 DATE 02-07-2021
     5. search()
     6. match()
     7. includes()
-5. Number methods
-   1.
+
