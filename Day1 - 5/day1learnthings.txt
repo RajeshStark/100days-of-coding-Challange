@@ -1,28 +1,14 @@
-DAY - 1 DATE 02-07-2021 
+DAY - 3 DATE 08-07-2021 
 
-******  language - JAVASCRIPT  ******
+******  language 1 - Javascript  ******
 
-1. function syntax return params etc
-2. function expression, arrowfunction
-3. string methods
-    1. slice()
-    2. substring()
-    3. substr()
-    4. replace()
-    5. toUpperCase()
-    6. toLowerCase()
-    7. concat()
-    8. trim()
-    9. padStart() & padEnd()
-    10.charAt()
-    11.charCodeAt()
-    12.split()
-4. string search
-    1. indexOf()
-    2. lastindexOf()
-    3. startsWith()
-    4. endsWith()
-    5. search()
-    6. match()
-    7. includes()
+***************************************
 
+
+******  language 2 - React  ******
+
+ALL CONCEPTS
+
+******  language 3 - Redux  ******
+
+UNTILL ABLE TO HANDLE PROJECT

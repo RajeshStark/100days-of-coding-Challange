@@ -1,5 +1,0 @@
-DAY - 2 DATE 04-07-2021 
-
-******  language - Redux  ******
-
-Practiced Redux using youtube built a sopping app.
