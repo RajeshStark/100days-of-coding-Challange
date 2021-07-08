@@ -1,8 +1,11 @@
-DAY - 3 DATE 08-07-2021 
+DAY - 1 DATE 08-07-2021 
 
-******  language 1 - Javascript  ******
+******  language 1 - ES6  ******
 
-***************************************
+1.classes
+2. arrow functions
+3. rest and spread operator
+4. array destruction
 
 
 ******  language 2 - React  ******
